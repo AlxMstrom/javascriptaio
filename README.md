@@ -14,3 +14,5 @@ A starter program for writing Javascript games.
 
 2. The script will detect when thw left or right arrow
    key are pressed and will move the ball alemen accordingly.
+
+hello
